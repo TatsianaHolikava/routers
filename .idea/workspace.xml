@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d618bdb0-12fe-4d42-943a-252a0ae864ef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/pages/Books/Book1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Books/Book2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Books/Book3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Books/Books.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Books/BooksHomePage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home/HomePage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/NoPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/UpperMenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/expense-tracker/AddTransaction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/expense-tracker/Transaction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/expense-tracker/TransactionList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/expense-tracker/balance.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/expense-tracker/context/AppReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/expense-tracker/context/GlobalState.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/expense-tracker/context/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/expense-tracker/expense-tracker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/expense-tracker/express-tracker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/expense-tracker/income.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/game3/game3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/game4/game4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/store/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/tic-tac-toe/Board.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/tic-tac-toe/Square.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/tic-tac-toe/board.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/AllRoutes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HKsqAzDdBQomlYrsmz77COUstJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/gtane/WebstormProjects/routers/src/pages&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.nodejs&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\gtane\\AppData\\Local\\JetBrains\\Toolbox\\apps\\WebStorm\\ch-0\\222.3345.108\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gtane\WebstormProjects\routers\src\pages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gtane\WebstormProjects\routers\src\pages\expense-tracker\context" />
+      <recent name="C:\Users\gtane\WebstormProjects\routers\src\pages\game1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d618bdb0-12fe-4d42-943a-252a0ae864ef" name="Changes" comment="" />
+      <created>1668045297439</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668045297439</updated>
+      <workItem from="1668045298836" duration="78000" />
+      <workItem from="1668047397432" duration="5606000" />
+      <workItem from="1668213630263" duration="5076000" />
+      <workItem from="1668374140102" duration="55000" />
+      <workItem from="1671029506298" duration="16204000" />
+      <workItem from="1671122742189" duration="15871000" />
+      <workItem from="1671634943861" duration="3334000" />
+      <workItem from="1671718539527" duration="9862000" />
+      <workItem from="1671814856278" duration="1802000" />
+      <workItem from="1672153910669" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
