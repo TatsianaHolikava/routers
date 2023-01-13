@@ -14,20 +14,6 @@ body {
     display: table;
 }
 
-/* .background-image {
-    object-fit: cover;
-    width: 100%;
-    height: 100%;
-    position: fixed;
-   z-index: -1
-} */
-
-.background-image {
-    z-index: -1;
-    background-size: cover;
-    margin-top: 80px;
-
-}
 
 .board-container {
     display: flex;
@@ -38,29 +24,25 @@ body {
     width: 100%;
     flex-direction: column;
     object-fit: cover;
-    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2);
-    z-index: 5;
-    /* background: url('C:\Users\gtane\WebstormProjects\routers-1\public\images\img-10.jpeg') center center/cover no-repeat;
-    background-size: cover; */
-   
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2);   
 }
 
 .square {
     float: left;
-    font-size: 80px;
-    height: 150px;
+    font-size: 60px;
+    height: 100px;
     margin-right: -1px;
     margin-top: -1px;
     padding: 0;
     text-align: center;
-    width: 150px;
+    width: 100px;
     background-color: #e9e0f3;
     border: 2px solid white;
 }
 
 .header{
     text-align:center;
-    font-size:40px;
+    font-size:28px;
     text-shadow: 2px 2px 4px #bbb;
     margin-top: 100px;
 }
@@ -69,7 +51,7 @@ body {
     font-size:30px;
     text-shadow: 2px 2px 4px #bbb;
     margin-bottom: 10px;
-    margin-top: 100px;
+    margin-top: 20px;
 }
 
 .button {
@@ -84,5 +66,6 @@ body {
     border-radius:10px;
     box-shadow: 0px 0px 2px 2px rgb(245, 245, 245);
     margin-top: 20px;
+    margin-bottom: 20px;
 
 }

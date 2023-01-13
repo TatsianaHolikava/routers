@@ -9,9 +9,10 @@ import Game4 from "../pages/game4/game4";
 import HomePage from "../pages/Home/HomePage";
 import Board from "../pages/tic-tac-toe/Board";
 
+
 const AllRoutes = () => {
     return (
-        <Routes>
+            <Routes>
             <Route path='/' element={<HomePage />}/>
             <Route path='/tic-tac-toe' element={<Board />}/>
             <Route path='/expense-tracker' element={<ExpenseTracker />}/>
@@ -20,7 +21,8 @@ const AllRoutes = () => {
             <Route path='/books' element={<BooksHomePage/>}/>
             <Route path='/store' element={<Store/>}/>
             <Route path='*' element={<NoPage />}/>
-        </Routes>
+            </Routes>
+    
 
     );
 };

@@ -61,18 +61,16 @@ function Board() {
 
 
     return (
-        <div className="board-container">
+        <div>
         <Container sx={{display: 'flex', alignItems: 'center', justifyContent: 'center'}}>
         <div>
-        <img src="images/img-1.jpg" alt="background" className="background-image"/>
+  
         </div>
         <div className="board">
-            <div className="header">
-                <h1>TIC-TAC-TOE</h1>
-            </div>
+                <h1 className="header">TIC-TAC-TOE</h1>
             <div className="header2">
                 {status}
-                {status === `Winner: ${winner}` ? <ReactConfetti width={window.innerWidth} /> : null}
+                {status === `Winner: ${winner}` ? <ReactConfetti width={window.innerWidth}  /> : null}
             </div>
             <div className="board-row">
                 <Square className="elements" value={squares[0]} onClick={() => handleClick(0)}/>

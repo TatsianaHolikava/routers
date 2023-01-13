@@ -29,12 +29,12 @@ function UpperMenu() {
     <nav classaName="navbar">
       <div className="navbar-container">
       <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
-      LOGO
-      <i class="fab fa-typo3" />
+      Optimism
+      <i className="fab fa-typo3" />
     </Link>
           <Box className="navbar-menu">
           <Link to="/" className="nav-links">
-          HOME
+          Travel
         </Link>
         <Link to="/tic-tac-toe" className="nav-links">
           Tic-Tac-Toe
