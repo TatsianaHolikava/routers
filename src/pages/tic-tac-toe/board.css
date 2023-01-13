@@ -1,6 +1,7 @@
 body {
     font: 25px "Century Gothic", Futura, sans-serif;
     font-weight: bold;
+
 }
 .elements {
     font: 20px "Century Gothic", Futura, sans-serif;
@@ -11,6 +12,37 @@ body {
     clear: both;
     content: "";
     display: table;
+}
+
+/* .background-image {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+   z-index: -1
+} */
+
+.background-image {
+    z-index: -1;
+    background-size: cover;
+    margin-top: 80px;
+
+}
+
+.board-container {
+    display: flex;
+    align-items: center;
+    position: relative;
+    padding: 0 30px;
+    height: 100vh;
+    width: 100%;
+    flex-direction: column;
+    object-fit: cover;
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2);
+    z-index: 5;
+    /* background: url('C:\Users\gtane\WebstormProjects\routers-1\public\images\img-10.jpeg') center center/cover no-repeat;
+    background-size: cover; */
+   
 }
 
 .square {
@@ -30,12 +62,14 @@ body {
     text-align:center;
     font-size:40px;
     text-shadow: 2px 2px 4px #bbb;
+    margin-top: 100px;
 }
 .header2{
     text-align:center;
     font-size:30px;
     text-shadow: 2px 2px 4px #bbb;
     margin-bottom: 10px;
+    margin-top: 100px;
 }
 
 .button {

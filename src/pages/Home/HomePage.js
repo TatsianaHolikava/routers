@@ -1,10 +1,15 @@
 import React from 'react';
+import './HeroSection.css'
+import HeroSection from './HeroSection';
+import Cards from './Cards';
+
 
 const HomePage = () => {
     return (
-        <div>
-            <h1>HOME PAGE</h1>
-        </div>
+     <div> 
+     <HeroSection/>
+     <Cards />
+     </div>
     );
 };
 
