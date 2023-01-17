@@ -6,13 +6,13 @@ import Store from "../pages/store/store";
 import ExpenseTracker from "../pages/expense-tracker/expense-tracker";
 import Game3 from "../pages/game3/game3";
 import Game4 from "../pages/game4/game4";
-import HomePage from "../pages/Home/HomePage";
+import HomePage from "../pages/Travel/HomePage";
 import Board from "../pages/tic-tac-toe/Board";
-import Switzerland from '../pages/Home/Switzerland';
-import Bali from '../pages/Home/Bali';
-import Egypt from '../pages/Home/Egypt';
-import Bahamas from '../pages/Home/Bahamas';
-import Brazil from '../pages/Home/Brazil';
+import Switzerland from '../pages/Travel/Switzerland';
+import Bali from '../pages/Travel/Bali';
+import Egypt from '../pages/Travel/Egypt';
+import Bahamas from '../pages/Travel/Bahamas';
+import Brazil from '../pages/Travel/Brazil';
 
 
 const AllRoutes = () => {
