@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 70%;
+    height: 60%;
+    margin-top: 90px;
+  }
+.img{
+max-width: 50%;
+height: auto; 
+}
+.image {
+    max-width: 100%;
+}
+
+h1 {
+    font-size: 18px;
+}

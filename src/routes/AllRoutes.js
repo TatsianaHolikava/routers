@@ -8,6 +8,11 @@ import Game3 from "../pages/game3/game3";
 import Game4 from "../pages/game4/game4";
 import HomePage from "../pages/Home/HomePage";
 import Board from "../pages/tic-tac-toe/Board";
+import Switzerland from '../pages/Home/Switzerland';
+import Bali from '../pages/Home/Bali';
+import Egypt from '../pages/Home/Egypt';
+import Bahamas from '../pages/Home/Bahamas';
+import Brazil from '../pages/Home/Brazil';
 
 
 const AllRoutes = () => {
@@ -21,6 +26,13 @@ const AllRoutes = () => {
             <Route path='/books' element={<BooksHomePage/>}/>
             <Route path='/store' element={<Store/>}/>
             <Route path='*' element={<NoPage />}/>
+            
+            {/* travel page */}
+            <Route path='/Brazil' element={<Brazil/>}/>
+            <Route path='/Bahamas' element={<Bahamas/>}/>
+            <Route path='/Egypt' element={<Egypt/>}/>
+            <Route path='/Bali' element={<Bali/>}/>
+            <Route path='/Switzerland' element={<Switzerland/>}/>
             </Routes>
     
 

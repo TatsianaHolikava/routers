@@ -63,9 +63,7 @@ function Board() {
     return (
         <div>
         <Container sx={{display: 'flex', alignItems: 'center', justifyContent: 'center'}}>
-        <div>
-  
-        </div>
+
         <div className="board">
                 <h1 className="header">TIC-TAC-TOE</h1>
             <div className="header2">
